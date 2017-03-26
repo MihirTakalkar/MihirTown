@@ -1,0 +1,11 @@
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\bin\Debug\MihirBattleSim.exe.config
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\bin\Debug\MihirBattleSim.exe
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\bin\Debug\MihirBattleSim.pdb
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.Properties.Resources.resources
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.csproj.GenerateResource.Cache
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.exe
+c:\users\gmrinstructor\documents\visual studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.pdb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.Form2.resources
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.LogicforNT.resources
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirBattleSim\MihirBattleSim\obj\Debug\MihirBattleSim.LogicforWT.resources

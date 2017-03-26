@@ -1,0 +1,11 @@
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\bin\Debug\MihirTown.exe.config
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\bin\Debug\MihirTown.exe
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\bin\Debug\MihirTown.pdb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.LogicforNT.resources
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.Form2.resources
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.LogicforWT.resources
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.Properties.Resources.resources
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.csproj.GenerateResource.Cache
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.exe
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\MihirTown\MihirTown\obj\Debug\MihirTown.pdb
